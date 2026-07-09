@@ -4,6 +4,6 @@
   {"url":"punialada/punialada.wav","type":"audio","bank":"punialada","n":0},
   {"url":"salutero/salutero.wav","type":"audio","bank":"salutero","n":0},
   {"url":"haber/haber.wav","type":"audio","bank":"haber","n":0},
-   {"url":"muki/muki.wav","type":"audio","bank":"muki","n":0},
+  {"url":"muki/muki.wav","type":"audio","bank":"muki","n":0},
   {"url":"tanque/tanque.wav","type":"audio","bank":"tanque","n":0}
 ] 
